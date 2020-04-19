@@ -1,7 +1,7 @@
 # si_calculator
 
-A new Flutter project.
-
+A Simple interest finder app
+![](sicalculator.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
